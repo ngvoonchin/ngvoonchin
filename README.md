@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👋 Hi, I'm Voon Chin,a passionate self-taught software developer from Singapore 🚀. 
+
 <!--
 **ngvoonchin/ngvoonchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
